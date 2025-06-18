@@ -23,7 +23,7 @@ const Marquee = () => {
 
             gsap.to(marquee, {
                 x: -totalWidth,
-                duration: 20,
+                duration: 10,
                 ease: 'none',
                 repeat: -1,
                 modifiers: {
