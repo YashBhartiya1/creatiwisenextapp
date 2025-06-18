@@ -8,11 +8,11 @@ const Marquee = () => {
 
     const images = [
         '/footer1.png',
-        '/star.png',
+        '/Star.png',
         '/footer2.png',
-        '/star.png',
+        '/Star.png',
         '/footer3.png',
-        '/star.png',
+        '/Star.png',
         '/footer4.png',
     ]
 

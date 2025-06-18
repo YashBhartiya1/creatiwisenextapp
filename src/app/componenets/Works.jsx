@@ -83,7 +83,7 @@ const Works = () => {
             <div ref={sectionRef} className='flex items-center justify-between'>
                 <h3 className={`${syne.variable} font-syne text-[#ffffff] flex items-center gap-2 text-[40px] font-bold leading-[100%] tracking-normal`}>
                     <span>
-                        <img src='/star.png' alt='starpng' />
+                        <img src='/Star.png' alt='starpng' />
                     </span>
                     Works
                 </h3>

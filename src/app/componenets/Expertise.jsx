@@ -94,8 +94,8 @@ const Expertise = () => {
                             className={`${syne.variable} font-syne text-[#ffffff] flex items-center gap-2`}
                         >
                             <span>
-                                <img src="/vector.png" alt="vector" />
-                            </span>{' '}
+                                <img src="/Vector.png" alt="vector" />
+                            </span>
                             {item.title}
                         </h5>
                         <p

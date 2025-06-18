@@ -22,9 +22,9 @@ export default function Home() {
       <Experience />
       <Blog />
       <Testimonial />
-      <Faqs/>
-      <Marquee/>
-      <Footer/>
+      <Faqs />
+      <Marquee />
+      <Footer />
     </>
   );
 }
